@@ -14,3 +14,8 @@ tlačítko Facebook:				 #3b5998
 tlačítko Facebook aktivní: #2b406e
 */
 
+img {
+    width: 150px;
+    border-radius: 50%;
+    border: 3px solid white;
+}
